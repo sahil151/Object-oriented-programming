@@ -43,6 +43,7 @@ void BubbleSort::display() {
         cout << "]";
 }
 int main () {
+    cout<<"have a nice day"<<end1;
     BubbleSort frank;
     frank.driver();
     return 0;
